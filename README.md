@@ -1,5 +1,5 @@
 # FtpServer
-Lets you create an server (virtual) in your very own device and lets others connect though you to access the data which are public to them.
+Lets you create an server (virtual) in your very own device and lets others connect though you (there must be a mediator between the host and the visitor, for say a router)to access the data which are public to them.
 
 ## Users Additive function
 
